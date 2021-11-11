@@ -7,11 +7,13 @@
 body{
     font-family: 'Teko', sans-serif;
     height: 100vh;
+    overflow: hidden;
 }
 h1{
     font-size: 65px;
     text-align: center;
     margin-top: 50px;
+    margin-top: 100px;
 }
 .wrapper {
     display: flex;
